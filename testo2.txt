@@ -1,1 +1,2 @@
 Prima scrittura dopo il primo commit.
+Seconda scrittura per il secondo commit.
